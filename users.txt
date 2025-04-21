@@ -1,0 +1,5 @@
+66a8203328647|editor|editor@email.com|Editor Name|editor|$2y$12$pKoJaueIvG50lHdu6qRMouTHpfjkc9folKV49XCFZuUuu4FEJyWk2
+67a82042955a1|member|member@email.com|Member Name|member|$2y$12$M6myOXrxfh8W/gRMcDOFveyfEIN9sHTULEcfQZ7O4.ZQcauhPT9bK
+68a82042999a1|member|member@email.com|Member Name|userr|$2y$12$M6myOXrxfh8W/gRMcDOFveyfEIN9sHTULEcfQZ7O4.ZQcauhPT9bK
+67d0e0a123456|admin|admin@example.com|Admin User|admin|$2y$12$pKoJaueIvG50lHdu6qRMouTHpfjkc9folKV49XCFZuUuu4FEJyWk2
+67f5ed7acc3db|Apples|Apples@apples.ca|apples|editor|$2y$10$QKApml9ghnuwbnBeok.lieONMN4ZtieIDwzaaoT3X8/mFarfxTxUi
