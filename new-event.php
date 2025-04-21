@@ -1,14 +1,4 @@
 <?php
-/**
- * Assignment 2 instructions:
- * 
- * - This file requires no changes.
- */
-
-
-/**
- * This script handles the creation of an event.
- */
 
 // Import and use classes
 require_once 'Models/EventHandler.php'; // Include the EventHandler class file

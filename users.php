@@ -1,14 +1,4 @@
 <?php
-/**
- * Assignment 2 Instructions
- * 
- * - Check if the user is logged in and is an admin, if not redirect to login.php with a message indicating that the user must be an admin to manage users.
- * - Get all users from the database using the UserManager.
- * - Display all users in a table with the following columns: ID, Username, Email, Full Name, Role, and Actions.
- * - The Actions column should have two links: Edit and Delete.
- * - The Edit link should go to edit-user.php with the user ID as a query parameter.
- * - The Delete link should go to delete-user.php with the user ID as a query parameter and should have a JavaScript confirmation prompt before deleting the user.
- */
 
 require_once 'Models/UserManager.php';
 require_once 'Models/Auth.php';

@@ -1,14 +1,4 @@
 <?php
-/**
- * Assignment 2 Instructions
- * 
- * - Check the user is allowed to modify this event. If they are not redirect to index.php with an error message.
- * - Add a hidden input to store the event's author ID (the author of the event being edited, not the current user id) and populate it with the event's author id.
- */
-
-/**
- * This script handles the editing of an event.
- */
 
 // Import and use classes
 require_once 'Models/Event.php';

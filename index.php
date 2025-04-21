@@ -1,15 +1,4 @@
 <?php
-/**
- * Assignment 2 Instructions:
- * 
- * - Add a login button that links to the login.php page if the user is not logged in.
- * - Add a logout button that links to the logout.php page if the user is logged in.
- * - Add a "Manage User" button that links to the users.php page if the user is logged in and is an admin.
- * - Add a welcome message that displays the user's full name and role if the user is logged in.
- * - Add an Author column listing the full name of the event author.
- * - Add an Actions column with Edit and Delete links for each event. Display the edit link if the user is an admin or editor, or if the user is the author of the event. Display the delete button if the user is an admin or author of the event.
- * 
- */
 
 // Testing login using:
 // Username: admin

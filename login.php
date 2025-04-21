@@ -1,12 +1,4 @@
 <?php
-/**
- * Assignment 2 Instructions
- * 
- * - Create a login form to gather the user's username and password.
- * - If the user is already logged in and attempts to visit login.php, redirect them to index.php.
- * - When the form is submitted, validate and sanitize all data and ensure required values are submitted, then login the user using the Auth class and redirect them to index.php
- * - If the username or password does not validate, display an error message at the top of the login form. Note: see the success and error get attribute blocks in the index.php file for an example of how to display messages.
- */
 
 // Include the necessary classes
 require_once 'Models/Auth.php';

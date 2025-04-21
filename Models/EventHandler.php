@@ -1,13 +1,5 @@
 <?php
-/**
- * Assignment 2 instructions
- * 
- * - Modify the addEvent() method to include the author. It should be the last item in the event string, e.g.:
- * --- eventID|name|description|start|end|authorId
- * --- 67a1934088435|asda|asda|2025-01-30 20:10:00|2025-02-12 20:10:00| 47a19240b8d35
- * - Modify the editEvent() method to factor in the author. Ensure you check that the currently logged in user can edit the event before making changes to events.txt.
- * - Modify the deleteEvent() method to factor in the author. Ensure you check that the currently logged in user can delete the event before making changes to events.txt.
- */
+
 namespace Models;
 require_once 'Utils/Redirect.php';
 use Utils\Redirect;

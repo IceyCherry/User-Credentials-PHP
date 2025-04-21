@@ -1,11 +1,4 @@
 <?php
-/**
- * Assignment 2 Instructions:
- * 
- * - Add an additional property to the Event class called $authorID.
- * - Add a constructor parameter for the new property.
- * - Adjust the class' methods to account for the new property.
- */
 
 namespace Models;
 use \DateTime;

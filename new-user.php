@@ -1,16 +1,6 @@
 <?php
-/**
- * Assignment 2 instructions:
- * 
- * - Confirm the current user is an admin. If they are not, redirect them to the index.php page with an error indicating they must be an admin to create users.
- * - Include a link back to the users.php page.
- * - Create a new user form to gather the user's username, email, full name, role, and password.
- * - When the form is submitted, validate and sanitize all data and ensure required values are submitted, then attempt to create the user using the UserManager class, checking the username is unique before creating the user.
- * - Redirect the user to the users.php page with a success message indicating the user was created. If the user was not created (missing required field values, non-unique username, etc.), redirect the user back to the new-user.php page with an error indicating why the user was not created.
- */
 
 // Check if the user is logged in and if they are an admin
-
 
 require_once 'Models/Auth.php'; // Include Auth class
 require_once 'Models/UserManager.php';
